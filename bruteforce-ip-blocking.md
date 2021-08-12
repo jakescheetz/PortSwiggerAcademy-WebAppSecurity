@@ -14,3 +14,8 @@
     - ![pay1](Assets/img/payload1.png)
     - 1[pay2](Assets/img/payload2.png)
 
+- a single request with the username carlos should have a 302 (user found) response
+  - to make this easier to find you can sort by response and then by username
+  - ![user](Assets/img/bruteforce-solved.png)
+  - ![result](Assets/img/result.png)
+  
